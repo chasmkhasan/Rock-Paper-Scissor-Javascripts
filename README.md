@@ -15,3 +15,9 @@ Du skapar ett enkelt UI där användaren klickar på sten, sax, eller påse - sa
 Ta gärna inspiration från denna guide som erbjuder starterassets https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH
 
 # Rock-Paper-Scissor-Javascripts
+
+
+
+MD Kamrul Hasan
+
+Published page: https://chasmkhasan.github.io/Rock-Paper-Scissor-Javascripts/
